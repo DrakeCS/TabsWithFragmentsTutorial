@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBarTabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tab1_fragment">Tab1Fragment</string>
+    <string name="title_activity_tab2_fragment">Tab2Fragment</string>
+    <string name="title_activity_tab3_fragment">Tab3Fragment</string>
+
+</resources>
